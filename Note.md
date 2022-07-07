@@ -1,9 +1,3 @@
-   Manh-Dung Nguyen - OSCP Enumeration   
-
-[Manh-Dung Nguyen](/)  
-
-[Blog](/blog/)     [Pentest](/pentest/)     [Publications](/pubs/)     [Whoami](/whoami/)     [@](/cdn-cgi/l/email-protection#2909474e5c504c47444847414d5c474e181e1819694e44484045074a4644)   [](https://github.com/strongcourage)   [](https://twitter.com/_strongcourage)  [](https://www.linkedin.com/in/strongcourage)
-
 OSCP Enumeration
 ================
 
